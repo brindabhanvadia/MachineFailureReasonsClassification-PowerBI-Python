@@ -2,7 +2,7 @@
 
 ## 🧠 Project Overview
 
-**Project Name:** Valerija RPA Logs Report
+**Project Name:** RPA Logs Report
 **Tool Used:** Power BI
 **Domain:** Robotic Process Automation (RPA) Analytics
 **Objective:** To monitor, analyze, and optimize the performance of automated bots by visualizing their operational logs and identifying failure patterns, utilization, and SLA compliance.
@@ -125,40 +125,6 @@ The Power BI report was divided into **three main pages**:
 
 ---
 
-## ⚙️ Automation and Refresh
-
-* Set up **scheduled data refresh** (daily) via Power BI Service.
-* Used **incremental refresh** to handle large datasets efficiently.
-* Implemented **data gateway** for secure on-premise access (if applicable).
-
----
-
-## 🔐 Security and Access Control
-
-* Implemented **Row-Level Security (RLS)** so users only see data relevant to their department or region.
-* Restricted sensitive fields like input parameters or PII.
-* Shared dashboards via Power BI Service with read-only access.
-
----
-
-## 📉 Performance Optimization
-
-* Removed unnecessary columns and unused visuals.
-* Aggregated data by day to improve load speed.
-* Replaced calculated columns with measures where possible.
-* Used query folding for efficient transformations.
-
----
-
-## 🚀 Business Impact
-
-* Reduced **manual log analysis time** from hours to minutes.
-* Improved **incident response** — failures could be spotted and fixed faster.
-* Increased **transparency** for management with SLA and utilization tracking.
-* Helped prioritize process improvements based on failure patterns.
-* Enhanced **data-driven decision-making** for RPA scalability and ROI tracking.
-
----
 
 ## 🧩 Tools and Technologies
 
@@ -171,13 +137,4 @@ The Power BI report was divided into **three main pages**:
 
 ---
 
-## 💡 Learnings and Takeaways
-
-* Importance of **data standardization** when logs come from multiple bots or processes.
-* Learned to apply **star schema** modeling for performance and flexibility.
-* Improved skills in **DAX**, incremental refresh, and **RLS implementation**.
-* Understood how to convert **technical log data into business insights**.
-
----
-n** (e.g., 1–2 minute spoken summary for interviews) or a **detailed written version** (e.g., for your resume/portfolio description)?
 
