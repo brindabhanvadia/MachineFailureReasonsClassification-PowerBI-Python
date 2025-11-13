@@ -137,4 +137,29 @@ The Power BI report was divided into **three main pages**:
 
 ---
 
+<img width="1376" height="772" alt="Machine" src="https://github.com/user-attachments/assets/f183de91-4ad8-4400-a643-1998b60fc664" />
+
+---
+
+<img width="1372" height="773" alt="Error Category and Failure Reason" src="https://github.com/user-attachments/assets/4e784fd1-9bbe-4dd1-857d-944eae2885b9" />
+
+---
+
+<img width="1367" height="772" alt="Date" src="https://github.com/user-attachments/assets/ae227d9e-43ee-4d9d-9355-c057f97eacce" />
+
+---
+
+<img width="1370" height="781" alt="Time" src="https://github.com/user-attachments/assets/b378b17f-7d68-4b72-97e6-fff40a9b4ace" />
+
+---
+
+<img width="1370" height="775" alt="Date and Updates" src="https://github.com/user-attachments/assets/1e4caaed-4bd6-4860-9dcf-63af14a77c5d" />
+
+
+---
+
+
+
+
+
 
